@@ -1,2 +1,2 @@
 # Servidor-Correo
-Aplicación cliente que permite conectarse a un servidor de correos para aplicar los protocolos SMTP y POP3.
+Se realizó un aplicativo web para realizar el inicio de sesión de un correo con un dominio específico y posteriormente realizar el envío de un correo a otro usuario con el mismo dominio, haciendo uso de los protocolos SMTP y POP3, además de los métodos de petición HTTP para recibir los datos necesarios. Para realizar el dominio propio se utilizó HMailServer y para comprobar el envío de los correos se usó ThunderBird, todo esto ejecutándose en local con la posibilidad de usar dos máquinas en una red Lan.
